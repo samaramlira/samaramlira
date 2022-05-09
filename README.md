@@ -1,7 +1,6 @@
 ## Ooi 👋🏼 Eu sou a Samara Lira!
 
-- 👩🏼‍🎓 Atualmente estudando bootcamp para Desenvolvedor Mobile em Generation 
-- 💻 Procurando entrar na área de Desenvolvedora
+- 💻 Atualmente procurando começar a carreira de Desenvolvedora
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
