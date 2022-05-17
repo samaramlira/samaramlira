@@ -4,9 +4,9 @@
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/samaramlira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samaramlira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaramlira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
   <img align="center" alt="Samara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samara-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Samara-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://scontent.cdninstagram.com/v/t1.15752-9/280090293_547885833384059_8568823877765097291_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=5a057b&_nc_ohc=YOlTwiNgbpIAX8GSIts&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVLn4XptrbZ3CZpJNOhVlswllNYTTp0zRyNxX_Svt7mZ-A&oe=62AAD198)">
+  <img align="right" alt="Samara-pic" height="150" style="border-radius:50px;" src="https://scontent.cdninstagram.com/v/t1.15752-9/280090293_547885833384059_8568823877765097291_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=5a057b&_nc_ohc=YOlTwiNgbpIAX8GSIts&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVLn4XptrbZ3CZpJNOhVlswllNYTTp0zRyNxX_Svt7mZ-A&oe=62AAD198">
 </div>
   
   ##
