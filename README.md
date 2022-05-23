@@ -14,7 +14,7 @@
   <img align="center" alt="Samara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samara-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Samara-pic" height="150" style="border-radius:100px;" src="https://scontent.cdninstagram.com/v/t1.15752-9/280090293_547885833384059_8568823877765097291_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=5a057b&_nc_ohc=YOlTwiNgbpIAX8GSIts&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVLn4XptrbZ3CZpJNOhVlswllNYTTp0zRyNxX_Svt7mZ-A&oe=62AAD198">
+  <img align="right" alt="Samara-pic" height="150" style="border-radius:100px;" src="[https://scontent.cdninstagram.com/v/t1.15752-9/280090293_547885833384059_8568823877765097291_n.jpg?_nc_cat=101&ccb=1-6&_nc_sid=5a057b&_nc_ohc=YOlTwiNgbpIAX8GSIts&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVLn4XptrbZ3CZpJNOhVlswllNYTTp0zRyNxX_Svt7mZ-A&oe=62AAD198](https://scontent.cdninstagram.com/v/t1.15752-9/280543820_385406510187696_5078167784656070137_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5a057b&_nc_ohc=SqnWgIcKAHoAX9J6lbL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=03_AVKgo2_Rxbt74tXtt4QBPEYpq4ZfYvBwrlUYiDjplUfSOw&oe=62B125F0)">
 </div>
   
   ##
